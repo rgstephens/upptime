@@ -14,7 +14,7 @@ sites:
   - name: BGC
     url: https://broadmoorgolfclub.com
   - name: BHA
-    url: https://broadmoorhomeonwers.com
+    url: https://broadmoorhomeowners.com
   - name: MDI Maui
     url: https://mdimaui.com
   - name: Natmed
@@ -22,11 +22,11 @@ sites:
   - name: FishOn
     url: https://fishonwithjon.com
   - name: Cryptoagent
-    url: https://crtyptoagent.us
+    url: https://cryptoagent.us
   - name: RasaAlerts
     url: https://rasaalerts.com
   - name: Bandon Brawl
-    url: https://bandonbrawl.com
+    url: https://bandonbrawl22.com
   - name: RasaBot
     url: https://rasabot.us
 
@@ -37,8 +37,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Stephens** status page"
+  introMessage: 
   navbar:
     - title: Status
       href: /
