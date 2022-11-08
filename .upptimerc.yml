@@ -29,6 +29,8 @@ sites:
     url: https://bandonbrawl22.com
   - name: RasaBot
     url: https://rasabot.us
+  - name: minio-ui
+    url: https://minio-ui.gstephens.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
