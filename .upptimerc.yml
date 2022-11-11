@@ -1,13 +1,6 @@
 # Change these first
 owner: rgstephens # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-status-website:
-  theme: ocean
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 sites:
   - name: tonk.link
@@ -69,6 +62,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: ocean
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
