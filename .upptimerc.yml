@@ -34,6 +34,9 @@ sites:
   - name: JokeBot Status endpoint
     # https://rasa.com/docs/rasa/http-api#security-considerations
     url: https://jokebot.rasabot.us/status
+    expectedStatusCodes:
+      - 401
+    __dangerous__body_down_if_text_missing: '"version":'
   - name: Jokebot REST endpoint
     url: https://jokebot.rasabot.us/webhooks/rest
     expectedStatusCodes:
@@ -41,6 +44,9 @@ sites:
     __dangerous__body_down_if_text_missing: '"status":"ok"'
   - name: RISbot Status endpoint
     url: https://risbot.rasabot.us/status
+    expectedStatusCodes:
+      - 401
+    __dangerous__body_down_if_text_missing: '"version":'
   - name: RISbot REST endpoint
     url: https://risbot.rasabot.us/webhooks/rest
     expectedStatusCodes:
