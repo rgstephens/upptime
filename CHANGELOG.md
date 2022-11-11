@@ -1,3 +1,9 @@
+## 1.1.2 (2022-11-11)
+
+### Fix
+
+- Fix rasa status endpoint checks
+
 ## 1.1.1 (2022-11-11)
 
 ### Fix
