@@ -1,6 +1,13 @@
 # Change these first
 owner: rgstephens # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+status-website:
+  theme: ocean
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 sites:
   - name: tonk.link
@@ -31,6 +38,22 @@ sites:
     url: https://rasabot.us
   - name: minio-ui
     url: https://minio-ui.gstephens.org
+  - name: JokeBot Status endpoint
+    # https://rasa.com/docs/rasa/http-api#security-considerations
+    url: https://jokebot.rasabot.us/status
+  - name: Jokebot REST endpoint
+    url: https://jokebot.rasabot.us/webhooks/rest
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: '"status":"ok"'
+  - name: RISbot Status endpoint
+    url: https://risbot.rasabot.us/status
+  - name: RISbot REST endpoint
+    url: https://risbot.rasabot.us/webhooks/rest
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: '"status":"ok"'
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
