@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: tonk.link
     url: https://tonk.link
+  - name: play.tonk.link
+    url: https://play.tonk.link
   - name: Golftrip
     url: https://golftrip.link
   - name: Avkana
