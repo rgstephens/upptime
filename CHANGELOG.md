@@ -1,3 +1,9 @@
+## 1.1.4 (2022-11-15)
+
+### Fix
+
+- Add financiabot monitoring
+
 ## 1.1.3 (2022-11-11)
 
 ### Fix
