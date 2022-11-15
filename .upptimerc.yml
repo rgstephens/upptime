@@ -54,6 +54,16 @@ sites:
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"status":"ok"'
+  - name: Financial Demo Status endpoint
+    url: https://financialbot.rasabot.us/status
+    expectedStatusCodes:
+      - 401
+    __dangerous__body_down_if_text_missing: '"version":'
+  - name: Financial Demo REST endpoint
+    url: https://financialbot.rasabot.us/webhooks/rest
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: '"status":"ok"'
 
 
 status-website:
