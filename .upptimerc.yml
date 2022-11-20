@@ -33,34 +33,39 @@ sites:
     url: https://rasabot.us
   - name: minio-ui
     url: https://minio-ui.gstephens.org
-  - name: JokeBot Status endpoint
-    # https://rasa.com/docs/rasa/http-api#security-considerations
-    url: https://jokebot.rasabot.us/status
-    expectedStatusCodes:
-      - 401
-    __dangerous__body_down_if_text_missing: '"version":'
+  # - name: JokeBot Status endpoint
+  #   # https://rasa.com/docs/rasa/http-api#security-considerations
+  #   url: https://jokebot.rasabot.us/status
+  #   expectedStatusCodes:
+  #     - 401
+  #   __dangerous__body_down_if_text_missing: '"version":'
   - name: Jokebot REST endpoint
     url: https://jokebot.rasabot.us/webhooks/rest
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"status":"ok"'
-  - name: RISbot Status endpoint
-    url: https://risbot.rasabot.us/status
-    expectedStatusCodes:
-      - 401
-    __dangerous__body_down_if_text_missing: '"version":'
+  # - name: RISbot Status endpoint
+  #   url: https://risbot.rasabot.us/status
+  #   expectedStatusCodes:
+  #     - 401
+  #   __dangerous__body_down_if_text_missing: '"version":'
   - name: RISbot REST endpoint
     url: https://risbot.rasabot.us/webhooks/rest
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"status":"ok"'
-  - name: Financial Demo Status endpoint
-    url: https://financialbot.rasabot.us/status
-    expectedStatusCodes:
-      - 401
-    __dangerous__body_down_if_text_missing: '"version":'
+  # - name: Financial Demo Status endpoint
+  #   url: https://financialbot.rasabot.us/status
+  #   expectedStatusCodes:
+  #     - 401
+  #   __dangerous__body_down_if_text_missing: '"version":'
   - name: Financial Demo REST endpoint
     url: https://financialbot.rasabot.us/webhooks/rest
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: '"status":"ok"'
+  - name: Haystack Demo REST endpoint
+    url: https://haystackbot.rasabot.us/webhooks/rest
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"status":"ok"'
