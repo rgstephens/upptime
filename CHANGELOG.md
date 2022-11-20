@@ -1,3 +1,9 @@
+## 1.1.5 (2022-11-19)
+
+### Fix
+
+- Drop duplicate Rasa endpoint checks, add haystack
+
 ## 1.1.4 (2022-11-15)
 
 ### Fix
