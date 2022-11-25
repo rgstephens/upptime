@@ -1,7 +1,7 @@
 url: https://financialbot.rasabot.us/webhooks/rest
-status: up
-code: 200
-responseTime: 236
-lastUpdated: 2022-11-24T23:20:56.530Z
+status: down
+code: 404
+responseTime: 98
+lastUpdated: 2022-11-25T03:27:16.502Z
 startTime: Tue Nov 15 2022 22:05:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
