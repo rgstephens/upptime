@@ -27,8 +27,8 @@ sites:
     url: https://cryptoagent.us
   - name: RasaAlerts
     url: https://rasaalerts.com
-  - name: Bandon Brawl
-    url: https://bandonbrawl22.com
+  # - name: Bandon Brawl
+  #   url: https://bandonbrawl22.com
   - name: RasaBot
     url: https://rasabot.us
   - name: minio-ui
