@@ -1,7 +1,7 @@
 url: https://jokebot.rasabot.us/webhooks/rest
-status: down
-code: 503
-responseTime: 234
-lastUpdated: 2023-07-04T23:18:21.618Z
+status: up
+code: 200
+responseTime: 326
+lastUpdated: 2023-07-05T03:35:36.452Z
 startTime: Fri Nov 11 2022 23:02:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
