@@ -1,7 +1,7 @@
 url: https://haystackbot.rasabot.us/webhooks/rest
 status: down
-code: 503
-responseTime: 98
-lastUpdated: 2024-05-25T18:30:46.286Z
+code: 404
+responseTime: 266
+lastUpdated: 2024-05-25T23:15:50.457Z
 startTime: 2022-11-20T02:04:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
