@@ -1,7 +1,7 @@
 url: https://rasaalerts.com
-status: down
-code: 503
-responseTime: 297
-lastUpdated: 2024-05-26T05:09:11.109Z
+status: up
+code: 200
+responseTime: 318
+lastUpdated: 2024-05-26T17:25:59.750Z
 startTime: 2022-07-01T16:47:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
