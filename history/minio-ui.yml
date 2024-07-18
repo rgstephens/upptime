@@ -1,7 +1,7 @@
 url: https://minio-ui.gstephens.org
-status: up
-code: 200
-responseTime: 330
-lastUpdated: 2024-07-17T23:18:38.116Z
+status: down
+code: 404
+responseTime: 417
+lastUpdated: 2024-07-18T19:30:54.322Z
 startTime: 2022-11-08T04:05:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
