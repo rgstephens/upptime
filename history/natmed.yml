@@ -1,7 +1,7 @@
 url: https://natmed.net
-status: up
-code: 200
-responseTime: 138
-lastUpdated: 2025-08-15T23:22:37.394Z
+status: down
+code: 415
+responseTime: 560
+lastUpdated: 2025-08-16T18:41:39.850Z
 startTime: 2022-07-01T16:47:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
