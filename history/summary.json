@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 152,
-    "timeWeek": 151,
-    "timeMonth": 164,
+    "timeDay": 100,
+    "timeWeek": 155,
+    "timeMonth": 165,
     "timeYear": 172,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.tonk.link.ico",
     "slug": "play-tonk-link",
     "status": "down",
-    "uptime": "36.94%",
+    "uptime": "36.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 293,
+    "time": 292,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-10": 113,
+      "2025-11-11": 109,
+      "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -397,8 +398,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-12": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 126,
-    "timeWeek": 143,
-    "timeMonth": 156,
+    "timeDay": 140,
+    "timeWeek": 147,
+    "timeMonth": 157,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -431,9 +431,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 169,
-    "timeWeek": 190,
-    "timeMonth": 185,
+    "timeDay": 157,
+    "timeWeek": 187,
+    "timeMonth": 186,
     "timeYear": 161,
     "dailyMinutesDown": {}
   },
@@ -443,18 +443,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstephens.org.ico",
     "slug": "gstephens",
     "status": "down",
-    "uptime": "57.82%",
+    "uptime": "57.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 411,
+    "time": 410,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-10": 113,
+      "2025-11-11": 109,
+      "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -817,8 +818,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-12": 1440
     }
   },
   {
@@ -827,16 +827,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/broadmoorgolfclub.com.ico",
     "slug": "bgc",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.63%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.38%",
-    "time": 1018,
-    "timeDay": 842,
-    "timeWeek": 790,
-    "timeMonth": 1871,
-    "timeYear": 1104,
+    "time": 1019,
+    "timeDay": 1075,
+    "timeWeek": 839,
+    "timeMonth": 1175,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2025-11-04": 17,
       "2025-10-15": 116,
@@ -868,8 +868,7 @@
       "2024-12-12": 18,
       "2024-12-01": 45,
       "2024-11-26": 1037,
-      "2024-11-25": 922,
-      "2024-11-11": 63
+      "2024-11-25": 922
     }
   },
   {
@@ -881,13 +880,13 @@
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.73%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.37%",
-    "time": 1236,
-    "timeDay": 1069,
-    "timeWeek": 1095,
-    "timeMonth": 1329,
-    "timeYear": 1262,
+    "time": 1237,
+    "timeDay": 1135,
+    "timeWeek": 1132,
+    "timeMonth": 1220,
+    "timeYear": 1263,
     "dailyMinutesDown": {
       "2025-11-04": 17,
       "2025-10-15": 75,
@@ -923,8 +922,7 @@
       "2024-12-01": 45,
       "2024-11-26": 1037,
       "2024-11-25": 922,
-      "2024-11-19": 19,
-      "2024-11-11": 62
+      "2024-11-19": 19
     }
   },
   {
@@ -938,10 +936,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 707,
-    "timeDay": 611,
-    "timeWeek": 835,
-    "timeMonth": 757,
+    "time": 706,
+    "timeDay": 593,
+    "timeWeek": 824,
+    "timeMonth": 752,
     "timeYear": 713,
     "dailyMinutesDown": {
       "2025-10-20": 21,
@@ -957,15 +955,15 @@
     "slug": "natmed",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "98.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.70%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.88%",
     "time": 373,
-    "timeDay": 340,
-    "timeWeek": 331,
-    "timeMonth": 358,
-    "timeYear": 378,
+    "timeDay": 193,
+    "timeWeek": 317,
+    "timeMonth": 356,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2025-11-09": 34,
       "2025-11-08": 21,
@@ -997,18 +995,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fishonwithjon.com.ico",
     "slug": "fish-on",
     "status": "down",
-    "uptime": "62.34%",
+    "uptime": "62.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "11.38%",
-    "time": 773,
+    "time": 783,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2025-11-10": 113,
+      "2025-11-11": 109,
+      "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -1334,8 +1333,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-12": 1440
     }
   },
   {
@@ -1344,18 +1342,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cryptoagent.us.ico",
     "slug": "cryptoagent",
     "status": "down",
-    "uptime": "56.69%",
+    "uptime": "56.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 397,
+    "time": 399,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-10": 113,
+      "2025-11-11": 109,
+      "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -1718,8 +1717,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-12": 1440
     }
   },
   {
@@ -1728,18 +1726,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rasaalerts.com.ico",
     "slug": "rasa-alerts",
     "status": "down",
-    "uptime": "52.28%",
+    "uptime": "52.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "10.89%",
-    "time": 225,
+    "time": 222,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-11-10": 113,
+      "2025-11-11": 109,
+      "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -2063,8 +2062,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-12": 1440
     }
   },
   {
@@ -2073,18 +2071,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio-ui.gstephens.org.ico",
     "slug": "minio-ui",
     "status": "down",
-    "uptime": "52.26%",
+    "uptime": "52.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1430,
+    "time": 444,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-10": 113,
+      "2025-11-11": 110,
+      "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -2447,8 +2446,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-12": 1440
     }
   },
   {
@@ -2457,18 +2455,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jokebot.rasabot.us.ico",
     "slug": "jokebot-rest-endpoint",
     "status": "down",
-    "uptime": "53.60%",
+    "uptime": "53.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 631,
+    "time": 638,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-11-10": 113,
+      "2025-11-11": 110,
+      "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -2831,8 +2830,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-12": 1440
     }
   },
   {
@@ -2841,18 +2839,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/risbot.rasabot.us.ico",
     "slug": "ri-sbot-rest-endpoint",
     "status": "down",
-    "uptime": "53.05%",
+    "uptime": "53.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 265,
+    "time": 266,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-11-10": 113,
+      "2025-11-11": 110,
+      "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -3215,8 +3214,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-12": 1440
     }
   },
   {
@@ -3225,18 +3223,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/haystackbot.rasabot.us.ico",
     "slug": "haystack-demo-rest-endpoint",
     "status": "down",
-    "uptime": "52.70%",
+    "uptime": "52.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 332,
+    "time": 333,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-11-10": 113,
+      "2025-11-11": 110,
+      "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
@@ -3599,8 +3598,7 @@
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
-      "2024-11-12": 1440,
-      "2024-11-11": 1440
+      "2024-11-12": 1440
     }
   }
 ]
