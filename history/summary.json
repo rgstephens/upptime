@@ -6,8 +6,8 @@
     "slug": "tonk-link",
     "status": "down",
     "uptime": "97.61%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
@@ -16,7 +16,7 @@
     "timeMonth": 157,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2026-10-12": 1
+      "2026-10-12": 2
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "play-tonk-link",
     "status": "up",
     "uptime": "28.26%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "1.38%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "1.39%",
     "uptimeYear": "0.00%",
     "time": 173,
     "timeDay": 173,
@@ -446,9 +446,9 @@
     "slug": "gstephens",
     "status": "up",
     "uptime": "45.40%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "1.38%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "1.39%",
     "uptimeYear": "0.00%",
     "time": 367,
     "timeDay": 367,
@@ -840,7 +840,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-12": 201,
+      "2026-10-12": 203,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -1259,6 +1259,24 @@
     "timeWeek": 161,
     "timeMonth": 161,
     "timeYear": 161,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Simply Spaces",
+    "url": "https://simply-spaces.com",
+    "icon": "https://icons.duckduckgo.com/ip3/simply-spaces.com.ico",
+    "slug": "simply-spaces",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 228,
+    "timeDay": 228,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   }
 ]
