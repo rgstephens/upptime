@@ -46,6 +46,8 @@ sites:
     url: https://tourneycard.com/scoring
   - name: TripTrak
     url: https://triptrak.link
+  - name: Simply Spaces
+    url: https://simply-spaces.com
 
 
 status-website:
