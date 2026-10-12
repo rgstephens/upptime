@@ -13,47 +13,23 @@ sites:
     url: https://avkana.com
   - name: gstephens
     url: https://gstephens.org
-  - name: BGC
-    url: https://broadmoorgolfclub.com
-  - name: BHA
-    url: https://broadmoorhomeowners.com
-  - name: MDI Maui
-    url: https://mdimaui.com
-  - name: Natmed
-    url: https://natmed.net
   - name: FishOn
     url: https://fishonwithjon.com
-  - name: Cryptoagent
-    url: https://cryptoagent.us
-  - name: RasaAlerts
-    url: https://rasaalerts.com
   # - name: Bandon Brawl
   #   url: https://bandonbrawl22.com
   # - name: RasaBot
   #   url: https://rasabot.us
-  - name: minio-ui
-    url: https://minio-ui.gstephens.org
   # - name: JokeBot Status endpoint
   #   # https://rasa.com/docs/rasa/http-api#security-considerations
   #   url: https://jokebot.rasabot.us/status
   #   expectedStatusCodes:
   #     - 401
   #   __dangerous__body_down_if_text_missing: '"version":'
-  - name: Jokebot REST endpoint
-    url: https://jokebot.rasabot.us/webhooks/rest
-    expectedStatusCodes:
-      - 200
-    __dangerous__body_down_if_text_missing: '"status":"ok"'
   # - name: RISbot Status endpoint
   #   url: https://risbot.rasabot.us/status
   #   expectedStatusCodes:
   #     - 401
   #   __dangerous__body_down_if_text_missing: '"version":'
-  - name: RISbot REST endpoint
-    url: https://risbot.rasabot.us/webhooks/rest
-    expectedStatusCodes:
-      - 200
-    __dangerous__body_down_if_text_missing: '"status":"ok"'
   # - name: Financial Demo Status endpoint
   #   url: https://financialbot.rasabot.us/status
   #   expectedStatusCodes:
@@ -64,11 +40,12 @@ sites:
   #   expectedStatusCodes:
   #     - 200
   #   __dangerous__body_down_if_text_missing: '"status":"ok"'
-  - name: Haystack Demo REST endpoint
-    url: https://haystackbot.rasabot.us/webhooks/rest
-    expectedStatusCodes:
-      - 200
-    __dangerous__body_down_if_text_missing: '"status":"ok"'
+  - name: TourneyCard
+    url: https://tourneycard.com
+  - name: TourneyCard Scoring
+    url: https://tourneycard.com/scoring
+  - name: TripTrak
+    url: https://triptrak.link
 
 
 status-website:

@@ -1,0 +1,32 @@
+name: Keep Alive
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+jobs:
+  keepalive:
+    name: Prevent inactivity disabling
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT || github.token }}
+      - name: Empty commit if no human activity for 30 days
+        run: |
+          last=$(git log -1 --format=%ct --invert-grep --author='upptime' --author='github-actions')
+          if [ -z "$last" ] || [ $(( $(date +%s) - last )) -gt $((30*86400)) ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit --allow-empty -m ":alarm_clock: Keep workflows alive [skip ci]"
+            git push
+          fi
+      - name: Re-enable any workflows disabled for inactivity
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
+        run: |
+          gh api repos/${{ github.repository }}/actions/workflows --paginate \
+            --jq '.workflows[] | select(.state=="disabled_inactivity") | .id' |
+          while read -r id; do gh api -X PUT repos/${{ github.repository }}/actions/workflows/$id/enable; done
