@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tonk.link.ico",
     "slug": "tonk-link",
     "status": "down",
-    "uptime": "97.42%",
+    "uptime": "97.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.31%",
-    "uptimeMonth": "90.18%",
-    "uptimeYear": "99.18%",
+    "uptimeWeek": "43.06%",
+    "uptimeMonth": "86.90%",
+    "uptimeYear": "98.91%",
     "time": 151,
     "timeDay": 0,
     "timeWeek": 157,
     "timeMonth": 157,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2026-10-15": 183,
+      "2026-10-16": 180,
+      "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1239
@@ -28,11 +29,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.tonk.link.ico",
     "slug": "play-tonk-link",
     "status": "up",
-    "uptime": "28.41%",
+    "uptime": "28.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "42.69%",
-    "uptimeMonth": "11.20%",
-    "uptimeYear": "0.82%",
+    "uptimeWeek": "56.94%",
+    "uptimeMonth": "14.48%",
+    "uptimeYear": "1.09%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 173,
@@ -399,8 +400,7 @@
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
-      "2025-10-17": 1440,
-      "2025-10-16": 1440
+      "2025-10-17": 1440
     }
   },
   {
@@ -418,7 +418,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 163,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -436,7 +436,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 169,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -445,11 +445,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstephens.org.ico",
     "slug": "gstephens",
     "status": "up",
-    "uptime": "45.50%",
+    "uptime": "45.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "42.69%",
-    "uptimeMonth": "11.20%",
-    "uptimeYear": "0.82%",
+    "uptimeWeek": "56.94%",
+    "uptimeMonth": "14.48%",
+    "uptimeYear": "1.09%",
     "time": 367,
     "timeDay": 0,
     "timeWeek": 367,
@@ -816,8 +816,7 @@
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
-      "2025-10-17": 1440,
-      "2025-10-16": 1440
+      "2025-10-17": 1440
     }
   },
   {
@@ -826,7 +825,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fishonwithjon.com.ico",
     "slug": "fish-on",
     "status": "down",
-    "uptime": "48.85%",
+    "uptime": "48.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -837,7 +836,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-15": 184,
+      "2026-10-16": 180,
+      "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
@@ -1200,8 +1200,7 @@
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
-      "2025-10-17": 1440,
-      "2025-10-16": 1440
+      "2025-10-17": 1440
     }
   },
   {
