@@ -6,8 +6,8 @@
     "slug": "tonk-link",
     "status": "up",
     "uptime": "97.13%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "33.46%",
+    "uptimeWeek": "4.78%",
     "uptimeMonth": "74.81%",
     "uptimeYear": "97.90%",
     "time": 151,
@@ -32,11 +32,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.tonk.link.ico",
     "slug": "play-tonk-link",
     "status": "up",
-    "uptime": "28.64%",
+    "uptime": "28.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.57%",
-    "uptimeYear": "2.10%",
+    "uptimeMonth": "27.67%",
+    "uptimeYear": "2.19%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
@@ -399,8 +399,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   },
   {
@@ -418,7 +417,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 164,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -445,11 +444,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstephens.org.ico",
     "slug": "gstephens",
     "status": "up",
-    "uptime": "45.66%",
+    "uptime": "45.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.57%",
-    "uptimeYear": "2.10%",
+    "uptimeMonth": "27.67%",
+    "uptimeYear": "2.19%",
     "time": 367,
     "timeDay": 0,
     "timeWeek": 0,
@@ -812,8 +811,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   },
   {
@@ -822,7 +820,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fishonwithjon.com.ico",
     "slug": "fish-on",
     "status": "down",
-    "uptime": "48.70%",
+    "uptime": "48.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -833,7 +831,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-19": 1155,
+      "2026-10-20": 197,
+      "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -1196,8 +1195,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   },
   {
