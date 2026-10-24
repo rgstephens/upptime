@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "97.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "47.63%",
+    "uptimeWeek": "61.85%",
     "uptimeMonth": "74.81%",
     "uptimeYear": "97.90%",
     "time": 151,
     "timeDay": 0,
     "timeWeek": 230,
     "timeMonth": 194,
-    "timeYear": 151,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2026-10-19": 1155,
       "2026-10-18": 1440,
@@ -32,11 +32,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.tonk.link.ico",
     "slug": "play-tonk-link",
     "status": "up",
-    "uptime": "28.81%",
+    "uptime": "28.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.53%",
-    "uptimeYear": "3.01%",
+    "uptimeMonth": "40.80%",
+    "uptimeYear": "3.29%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
@@ -395,8 +395,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   },
   {
@@ -405,7 +404,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/golftrip.link.ico",
     "slug": "golftrip",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -414,7 +413,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 164,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -432,7 +431,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 171,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -441,11 +440,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstephens.org.ico",
     "slug": "gstephens",
     "status": "up",
-    "uptime": "45.78%",
+    "uptime": "45.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.53%",
-    "uptimeYear": "3.01%",
+    "uptimeMonth": "40.80%",
+    "uptimeYear": "3.29%",
     "time": 367,
     "timeDay": 0,
     "timeWeek": 0,
@@ -804,8 +803,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   },
   {
@@ -814,7 +812,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fishonwithjon.com.ico",
     "slug": "fish-on",
     "status": "down",
-    "uptime": "48.60%",
+    "uptime": "48.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -825,7 +823,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-23": 196,
+      "2026-10-24": 189,
+      "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -1188,8 +1187,7 @@
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
-      "2025-10-25": 1440,
-      "2025-10-24": 1440
+      "2025-10-25": 1440
     }
   },
   {
