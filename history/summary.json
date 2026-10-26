@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "97.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.08%",
+    "uptimeWeek": "90.37%",
     "uptimeMonth": "74.81%",
     "uptimeYear": "97.90%",
     "time": 151,
     "timeDay": 0,
     "timeWeek": 230,
     "timeMonth": 194,
-    "timeYear": 154,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2026-10-19": 1155,
       "2026-10-18": 1440,
@@ -32,11 +32,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.tonk.link.ico",
     "slug": "play-tonk-link",
     "status": "up",
-    "uptime": "28.91%",
+    "uptime": "28.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.08%",
-    "uptimeYear": "3.56%",
+    "uptimeMonth": "47.36%",
+    "uptimeYear": "3.83%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
@@ -393,8 +393,7 @@
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
-      "2025-10-27": 1440,
-      "2025-10-26": 1440
+      "2025-10-27": 1440
     }
   },
   {
@@ -412,7 +411,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 160,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -430,7 +429,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 170,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -439,11 +438,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstephens.org.ico",
     "slug": "gstephens",
     "status": "up",
-    "uptime": "45.85%",
+    "uptime": "45.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.08%",
-    "uptimeYear": "3.56%",
+    "uptimeMonth": "47.36%",
+    "uptimeYear": "3.83%",
     "time": 367,
     "timeDay": 0,
     "timeWeek": 0,
@@ -800,8 +799,7 @@
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
-      "2025-10-27": 1440,
-      "2025-10-26": 1440
+      "2025-10-27": 1440
     }
   },
   {
@@ -810,7 +808,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fishonwithjon.com.ico",
     "slug": "fish-on",
     "status": "down",
-    "uptime": "48.54%",
+    "uptime": "48.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -821,7 +819,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-25": 184,
+      "2026-10-26": 184,
+      "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -1184,8 +1183,7 @@
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
-      "2025-10-27": 1440,
-      "2025-10-26": 1440
+      "2025-10-27": 1440
     }
   },
   {
