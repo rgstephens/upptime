@@ -4,11 +4,11 @@
     "url": "https://tonk.link",
     "icon": "https://icons.duckduckgo.com/ip3/tonk.link.ico",
     "slug": "tonk-link",
-    "status": "up",
+    "status": "down",
     "uptime": "97.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.81%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "74.75%",
     "uptimeYear": "97.90%",
     "time": 151,
     "timeDay": 0,
@@ -23,7 +23,8 @@
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
-      "2026-10-12": 1239
+      "2026-10-12": 1239,
+      "2026-10-29": 25
     }
   },
   {
@@ -31,12 +32,12 @@
     "url": "https://play.tonk.link",
     "icon": "https://icons.duckduckgo.com/ip3/play.tonk.link.ico",
     "slug": "play-tonk-link",
-    "status": "up",
-    "uptime": "29.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.39%",
-    "uptimeYear": "4.67%",
+    "status": "down",
+    "uptime": "29.12%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "58.06%",
+    "uptimeYear": "4.72%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
@@ -390,7 +391,8 @@
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
-      "2025-10-30": 1440
+      "2025-10-30": 1440,
+      "2026-10-29": 20
     }
   },
   {
@@ -434,12 +436,12 @@
     "url": "https://gstephens.org",
     "icon": "https://icons.duckduckgo.com/ip3/gstephens.org.ico",
     "slug": "gstephens",
-    "status": "up",
-    "uptime": "45.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "57.39%",
-    "uptimeYear": "4.67%",
+    "status": "down",
+    "uptime": "45.99%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "58.07%",
+    "uptimeYear": "4.72%",
     "time": 367,
     "timeDay": 0,
     "timeWeek": 0,
@@ -793,7 +795,8 @@
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
-      "2025-10-30": 1440
+      "2025-10-30": 1440,
+      "2026-10-29": 15
     }
   },
   {
@@ -813,7 +816,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-29": 255,
+      "2026-10-29": 568,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -1185,45 +1188,49 @@
     "url": "https://tourneycard.com",
     "icon": "https://icons.duckduckgo.com/ip3/tourneycard.com.ico",
     "slug": "tourney-card",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 344,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 344,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-29": 10
+    }
   },
   {
     "name": "TourneyCard Scoring",
     "url": "https://tourneycard.com/scoring",
     "icon": "https://icons.duckduckgo.com/ip3/tourneycard.com.ico",
     "slug": "tourney-card-scoring",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 329,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 329,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-29": 5
+    }
   },
   {
     "name": "TripTrak",
     "url": "https://triptrak.link",
     "icon": "https://icons.duckduckgo.com/ip3/triptrak.link.ico",
     "slug": "trip-trak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1232,7 +1239,9 @@
     "timeWeek": 0,
     "timeMonth": 161,
     "timeYear": 161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-29": 0
+    }
   },
   {
     "name": "Simply Spaces",
