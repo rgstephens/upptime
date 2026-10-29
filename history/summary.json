@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tonk.link.ico",
     "slug": "tonk-link",
     "status": "down",
-    "uptime": "97.15%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "74.75%",
-    "uptimeYear": "97.90%",
+    "uptime": "97.13%",
+    "uptimeDay": "69.67%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "73.81%",
+    "uptimeYear": "97.82%",
     "time": 151,
     "timeDay": 0,
     "timeWeek": 0,
@@ -24,7 +24,7 @@
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1239,
-      "2026-10-29": 25
+      "2026-10-29": 437
     }
   },
   {
@@ -32,17 +32,17 @@
     "url": "https://play.tonk.link",
     "icon": "https://icons.duckduckgo.com/ip3/play.tonk.link.ico",
     "slug": "play-tonk-link",
-    "status": "down",
-    "uptime": "29.12%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "58.06%",
-    "uptimeYear": "4.72%",
-    "time": 173,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "status": "up",
+    "uptime": "29.11%",
+    "uptimeDay": "71.38%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "58.10%",
+    "uptimeYear": "4.73%",
+    "time": 210,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2026-10-12": 201,
       "2026-10-11": 1440,
@@ -392,7 +392,7 @@
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
-      "2026-10-29": 20
+      "2026-10-29": 412
     }
   },
   {
@@ -437,9 +437,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstephens.org.ico",
     "slug": "gstephens",
     "status": "down",
-    "uptime": "45.99%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
+    "uptime": "45.98%",
+    "uptimeDay": "70.33%",
+    "uptimeWeek": "95.76%",
     "uptimeMonth": "58.07%",
     "uptimeYear": "4.72%",
     "time": 367,
@@ -796,7 +796,7 @@
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
-      "2026-10-29": 15
+      "2026-10-29": 427
     }
   },
   {
@@ -805,7 +805,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fishonwithjon.com.ico",
     "slug": "fish-on",
     "status": "down",
-    "uptime": "48.41%",
+    "uptime": "48.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -816,7 +816,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-29": 568,
+      "2026-10-29": 980,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -1189,18 +1189,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tourneycard.com.ico",
     "slug": "tourney-card",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "98.33%",
+    "uptimeDay": "70.69%",
+    "uptimeWeek": "95.81%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.33%",
     "time": 344,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 344,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2026-10-29": 10
+      "2026-10-29": 422
     }
   },
   {
@@ -1209,18 +1209,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tourneycard.com.ico",
     "slug": "tourney-card-scoring",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "98.35%",
+    "uptimeDay": "71.03%",
+    "uptimeWeek": "95.86%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.35%",
     "time": 329,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 329,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2026-10-29": 5
+      "2026-10-29": 417
     }
   },
   {
@@ -1229,18 +1229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/triptrak.link.ico",
     "slug": "trip-trak",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.37%",
+    "uptimeDay": "71.37%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
     "time": 161,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 161,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2026-10-29": 0
+      "2026-10-29": 412
     }
   },
   {
