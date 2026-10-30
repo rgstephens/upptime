@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tonk.link.ico",
     "slug": "tonk-link",
     "status": "down",
-    "uptime": "97.13%",
-    "uptimeDay": "69.67%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "73.81%",
-    "uptimeYear": "97.82%",
+    "uptime": "97.10%",
+    "uptimeDay": "20.04%",
+    "uptimeWeek": "88.58%",
+    "uptimeMonth": "72.18%",
+    "uptimeYear": "97.68%",
     "time": 151,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 194,
-    "timeYear": 143,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2026-10-19": 1155,
       "2026-10-18": 1440,
@@ -24,7 +24,8 @@
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1239,
-      "2026-10-29": 437
+      "2026-10-30": 254,
+      "2026-10-29": 897
     }
   },
   {
@@ -33,11 +34,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.tonk.link.ico",
     "slug": "play-tonk-link",
     "status": "up",
-    "uptime": "29.11%",
+    "uptime": "29.14%",
     "uptimeDay": "71.38%",
     "uptimeWeek": "95.91%",
-    "uptimeMonth": "58.10%",
-    "uptimeYear": "4.73%",
+    "uptimeMonth": "59.73%",
+    "uptimeYear": "4.86%",
     "time": 210,
     "timeDay": 247,
     "timeWeek": 247,
@@ -391,7 +392,6 @@
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
-      "2025-10-30": 1440,
       "2026-10-29": 412
     }
   },
@@ -428,7 +428,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 165,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -437,9 +437,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/gstephens.org.ico",
     "slug": "gstephens",
     "status": "down",
-    "uptime": "45.98%",
-    "uptimeDay": "70.33%",
-    "uptimeWeek": "95.76%",
+    "uptime": "45.97%",
+    "uptimeDay": "20.71%",
+    "uptimeWeek": "88.67%",
     "uptimeMonth": "58.07%",
     "uptimeYear": "4.72%",
     "time": 367,
@@ -795,8 +795,8 @@
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
-      "2025-10-30": 1440,
-      "2026-10-29": 427
+      "2026-10-30": 255,
+      "2026-10-29": 887
     }
   },
   {
@@ -805,7 +805,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fishonwithjon.com.ico",
     "slug": "fish-on",
     "status": "down",
-    "uptime": "48.40%",
+    "uptime": "48.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -816,7 +816,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-29": 980,
+      "2026-10-30": 255,
+      "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -1179,8 +1180,7 @@
       "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
-      "2025-10-31": 1440,
-      "2025-10-30": 1440
+      "2025-10-31": 1440
     }
   },
   {
@@ -1189,18 +1189,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tourneycard.com.ico",
     "slug": "tourney-card",
     "status": "down",
-    "uptime": "98.33%",
-    "uptimeDay": "70.69%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "98.33%",
+    "uptime": "95.62%",
+    "uptimeDay": "21.07%",
+    "uptimeWeek": "88.72%",
+    "uptimeMonth": "95.62%",
+    "uptimeYear": "95.62%",
     "time": 344,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 344,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2026-10-29": 422
+      "2026-10-30": 255,
+      "2026-10-29": 882
     }
   },
   {
@@ -1209,18 +1210,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tourneycard.com.ico",
     "slug": "tourney-card-scoring",
     "status": "down",
-    "uptime": "98.35%",
-    "uptimeDay": "71.03%",
-    "uptimeWeek": "95.86%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "98.35%",
+    "uptime": "95.64%",
+    "uptimeDay": "21.41%",
+    "uptimeWeek": "88.77%",
+    "uptimeMonth": "95.64%",
+    "uptimeYear": "95.64%",
     "time": 329,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 329,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2026-10-29": 417
+      "2026-10-30": 255,
+      "2026-10-29": 877
     }
   },
   {
@@ -1229,18 +1231,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/triptrak.link.ico",
     "slug": "trip-trak",
     "status": "down",
-    "uptime": "98.37%",
-    "uptimeDay": "71.37%",
-    "uptimeWeek": "95.91%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.37%",
+    "uptime": "95.66%",
+    "uptimeDay": "21.75%",
+    "uptimeWeek": "88.82%",
+    "uptimeMonth": "95.66%",
+    "uptimeYear": "95.66%",
     "time": 161,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 161,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2026-10-29": 412
+      "2026-10-30": 255,
+      "2026-10-29": 872
     }
   },
   {
